@@ -1,6 +1,6 @@
 # Table of contents
 
-**Tentative teaching plans for 2410:**
+**Tentative teaching plan for 2410:**
 
 + Week 1: Course introduction; Colab, Jupyter Notebook, and Spyder
 
