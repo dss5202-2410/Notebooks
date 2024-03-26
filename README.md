@@ -14,7 +14,7 @@
 
 Recess
 
-+ Week 7: Midterm exam
++ Week 7: Midterm test
 
 + Week 8: Principles of visualization
 
