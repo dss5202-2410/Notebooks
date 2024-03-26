@@ -1,8 +1,6 @@
 # Table of contents
 
-Tentative plans
-
-+ Week 1: Course Introduction; Colab, Jupyter Notebook, and Spyder
++ Week 1: Course introduction; Colab, Jupyter Notebook, and Spyder
 
 + Weeks 2-3: Introduction to programming
 
@@ -14,7 +12,7 @@ Tentative plans
 
 **Recess Week**
 
-+ Week 7: Midterm exam
++ Week 7: **Midterm exam**
 
 + Week 8: Principles of visualization
 
