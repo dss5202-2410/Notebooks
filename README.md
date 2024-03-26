@@ -12,7 +12,7 @@
 
 + Week 6: Buffer; midterm review
 
-Recess Week
+Recess
 
 + Week 7: Midterm exam
 
@@ -24,4 +24,4 @@ Recess Week
 
 + Week 13: Buffer; project presentation
 
-Exam Week
+Exam
