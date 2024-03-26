@@ -1,5 +1,7 @@
 # Table of contents
 
+**Tentative teaching plans for 2410:**
+
 + Week 1: Course introduction; Colab, Jupyter Notebook, and Spyder
 
 + Weeks 2-3: Introduction to programming
@@ -10,9 +12,9 @@
 
 + Week 6: Buffer
 
-**Recess Week**
+Recess Week
 
-+ Week 7: **Midterm exam**
++ Week 7: Midterm exam
 
 + Week 8: Principles of visualization
 
@@ -20,6 +22,6 @@
 
 + Weeks 11-12: Intermediate plotting
 
-+ Week 13: Project presentation
++ Week 13: Buffer; project presentation
 
-**Exam Week**
+Exam Week
