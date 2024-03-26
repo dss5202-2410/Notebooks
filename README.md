@@ -10,7 +10,7 @@
 
 + Week 5: Relational data
 
-+ Week 6: Buffer
++ Week 6: Buffer; midterm review
 
 Recess Week
 
