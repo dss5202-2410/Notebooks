@@ -20,6 +20,6 @@
 
 + Weeks 11-12: Intermediate plotting
 
-+ Week 13: Buffer
++ Week 13: Project presentation
 
 **Exam Week**
