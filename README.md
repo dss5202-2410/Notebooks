@@ -2,7 +2,7 @@
 
 **Tentative teaching plan for 2410:**
 
-+ Week 1: Course introduction; Colab, Jupyter Notebook, and Spyder
++ Week 1: Course introduction; Colab, Jupyter Notebook, and Visual Studio Code
 
 + Weeks 2-3: Introduction to programming
 
